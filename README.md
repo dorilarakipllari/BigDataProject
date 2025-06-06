@@ -15,9 +15,15 @@ cd BigDataProject
 
 ### 2. Set Up a Virtual Environment
 
+- **Windows (PowerShell):**
 ```bash
 python -m venv venv
-.\venv\Scripts\Activate.ps1   # For PowerShell on Windows
+.\venv\Scripts\Activate.ps1
+```
+- **Linux/macOS:**
+
+```bash
+source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
