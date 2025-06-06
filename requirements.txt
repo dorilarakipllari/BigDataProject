@@ -1,5 +1,8 @@
-pymongo pandas requests
+pymongo 
+pandas 
+requests
 streamlit
-matplotlib seaborn
+matplotlib 
+seaborn
 altair
 ml-100k.zip
