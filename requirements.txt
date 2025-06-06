@@ -5,4 +5,4 @@ streamlit
 matplotlib 
 seaborn
 altair
-ml-100k.zip
+
